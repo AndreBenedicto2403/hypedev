@@ -1,5 +1,18 @@
 body {
+  font-family: "Poppins", sans-serif;
+  background-color: #dfdfdf;
+  /* overflow: hidden; */
+  font-weight: 100;
+  margin: 0;
+  padding: 0;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
+
 
 nav {
   background-color: #398191;
@@ -69,20 +82,6 @@ nav .header-menu a:hover {
   box-sizing: border-box;
 }
 
-body {
-  font-family: "Poppins", sans-serif;
-  background-color: #dfdfdf;
-  /* overflow: hidden; */
-  font-weight: 100;
-  margin: 0;
-  padding: 0;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
 
 #calendar {
   -webkit-transform: translate3d(0, 0, 0);
