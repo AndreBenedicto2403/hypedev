@@ -1,11 +1,10 @@
 body {
-    font-family: "Poppins", sans-serif;
-    background-color: #dfdfdf;
-    font-weight: 100;
-    margin: 0;
-    padding: 0;
-  }
-
+  font-family: "Poppins", sans-serif;
+  background-color: #dfdfdf;
+  font-weight: 100;
+  margin: 0;
+  padding: 0;
+}
 
 nav {
   background-color: #398191;
@@ -32,7 +31,7 @@ nav .header-menu a:hover {
 }
 
 #main {
-  margin-top: 40px;
+  margin-top: 80px;
   padding-bottom: 50px;
 }
 
@@ -56,6 +55,7 @@ nav .header-menu a:hover {
 #footer {
   background-color: #398191;
   position: absolute;
+  bottom: 0 !important;
   width: 100%;
   margin-top: 40px;
   height: 60px;
@@ -67,5 +67,8 @@ nav .header-menu a:hover {
 }
 
 .btn {
-  
+  background-color: #398191;
+  color: #ffffff;
+  float: right;
+  margin-top: 40px;
 }
