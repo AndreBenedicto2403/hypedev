@@ -81,3 +81,10 @@ nav .header-menu a:hover {
   color: #ffffff;
   float: right;
 }
+
+#logo {
+  width: 100px;
+  height: 100px;
+  margin-top: 13px;
+}
+

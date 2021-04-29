@@ -62,6 +62,13 @@ nav .header-menu a:hover {
   margin-top: 22px;
 }
 
+#logo {
+  width: 100px;
+  height: 100px;
+  margin-top: 13px;
+}
+
+
 /* calendário */
 *,
 *:before,
