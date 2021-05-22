@@ -88,3 +88,23 @@ nav .header-menu a:hover {
   margin-top: 13px;
 }
 
+.certificado {
+  display: inline-block;
+  padding-top: 30px;
+}
+
+.meus{
+  width: calc(100% - 200px);
+  display: inline-block;
+  vertical-align: top;
+}
+
+.meus ul{
+  display: inline-block;
+  margin-right: 50px;
+}
+
+.certificado ul{
+  display: inline-block;
+  margin-right: 50px;
+}
